@@ -103,33 +103,19 @@ The AI field service optimization market spans **CRM-integrated field service pl
 
 
 | SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
-
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
-| **[Salesforce Field Service](https://www.salesforce.com/products/field-service/)** ☁️ | Salesforce | ~$250 Billion | **$50/user/month** (Einstein tier)  | **Free trial available** | **CRM-integrated field service** — **Einstein AI for predictive maintenance and intelligent scheduling** . **Agentforce 1 Field Service Edition** available at higher tiers . **Deep integration with Service Cloud and CRM data**. |
-
-| **[Microsoft Dynamics 365 Field Service](https://dynamics.microsoft.com/en-us/field-service/)** 🔷 | Microsoft | ~$3.90 Trillion | **Custom enterprise pricing** | **Free trial available** | **Microsoft-native field service** — **Predictive maintenance with IoT sensors** . **Mixed-reality remote assistance** for technicians. **Automated work order generation** before failures occur . |
-
-| **[ServiceTitan](https://www.servicetitan.com/)** 🎯 | ServiceTitan | ~$8 Billion | **$250–$498/user/month** (3 tiers)  | **No free trial**; demo required | **Trade-contractor FSM** — **Flat-rate pricebooks, memberships, and call booking** . **Setup complexity requires 10–15% of license costs in dedicated staff** . **15–25% overhead drain on profitability** . |
-
-| **[ServiceMax](https://www.servicemax.com/)** 🏢 | PTC | ~$1.5 Billion | **Custom enterprise pricing** | **Demo available** | **Enterprise asset-centric FSM** — **Complex asset hierarchies and preventive maintenance** . **Industrial and medical device focus**. **Deep integration with Salesforce and SAP**. |
-
-| **[IFS Field Service Management](https://www.ifs.com/)** 🔵 | IFS | ~$3 Billion | **Custom enterprise pricing** | **Demo available** | **Enterprise FSM suite** — **End-to-end field service lifecycle** . **Scheduling, dispatch, and mobile workforce management**. **Used by large industrial and utility companies**. |
-
-| **[Jobber](https://getjobber.com/)** 🟢 | Jobber | Private | **$39/month**  | **14-day free trial** | **Small business FSM** — **Quoting, scheduling, invoicing, and payments** . **Designed for home service businesses (HVAC, plumbing, landscaping)** . **User-friendly mobile app for technicians**. |
-
-| **[Housecall Pro](https://www.housecallpro.com/)** 🟠 | Housecall Pro | Private | **$79/month**  | **Free trial available** | **Home service FSM** — **Scheduling, dispatch, and payment processing** . **45,000+ businesses** use Housecall Pro . **Guided setup for easy onboarding**. |
-
-| **[Praxedo](https://www.praxedo.com/)** 🟣 | Praxedo | Private | **$39/month**  | **Free trial available** | **Field service scheduling** — **Optimized route planning and mobile work orders** . **Integration with popular accounting packages** . |
-
-| **[Zinier](https://www.zinier.com/)** 🔴 | Zinier | Private | **Pricing upon request**  | **Free trial available** | **AI-powered field service** — **Intelligent automation for telecom and utilities** . **Work order management and asset tracking**. |
-
-| **[Skedulo](https://www.skedulo.com/)** 🟡 | Skedulo | Private | **Per-user monthly rates** (minimum licenses)  | **No monthly billing accepted** | **Mobile workforce scheduling** — **Salesforce-native scheduling tools** . **Support included with every license** . **Additional support packages available** . |
-
-| **[FieldEdge](https://fieldedge.com/)** 🔵 | FieldEdge | Private | **Quote-only**; estimates **$620–$1,250/month for 10 users**  | **Demo only**; no free trial | **HVAC-focused FSM** — **Deep QuickBooks Desktop integration** . **Pricing is opaque with conflicting third-party estimates** . **Setup: $500–$2,000 + 5-week onboarding** . |
-
-| **[SAP Field Service Management](https://www.sap.com/products/field-service-management.html)** 🏭 | SAP | ~$200 Billion | **Custom enterprise pricing** | **Demo available** | **Enterprise field service** — **AI-driven equipment insights** summarize historical data to help technicians and dispatchers . **65% improvement in FTE productivity, 5% increase in first-time fix rate** . |
-
+| **[Microsoft Dynamics 365 Field Service](https://dynamics.microsoft.com/en-us/field-service/)** 🔷 | Microsoft | ~$3.90 Trillion | **$105/user/month** (Enterprise Tier) | **30-day free trial** (Full feature trial with 25 user licenses) | **Microsoft-native field service** — **Predictive maintenance with IoT sensors** . **Mixed-reality remote assistance** for technicians. **Automated work order generation** before failures occur . |
+| **[Salesforce Field Service](https://www.salesforce.com/products/field-service/)** ☁️ | Salesforce | ~$250 Billion | **$50/user/month** (Einstein tier) | **30-day free trial** (Sandbox environment, no credit card required) | **CRM-integrated field service** — **Einstein AI for predictive maintenance and intelligent scheduling** . **Agentforce 1 Field Service Edition** available at higher tiers . **Deep integration with Service Cloud and CRM data**. |
+| **[SAP Field Service Management](https://www.sap.com/products/field-service-management.html)** 🏭 | SAP | ~$240 Billion | **$95/user/month** (Professional License) | **30-day free trial** (SAP Service Cloud FSM trial environment) | **Enterprise field service** — **AI-driven equipment insights** summarize historical data to help technicians and dispatchers . **65% improvement in FTE productivity, 5% increase in first-time fix rate** . |
+| **[ServiceMax](https://www.servicemax.com/)** 🏢 | PTC | ~$21 Billion | **$80/user/month** (Base Enterprise License) | **No free trial** (Guided 30-day enterprise sandbox via demo) | **Enterprise asset-centric FSM** — **Complex asset hierarchies and preventive maintenance** . **Industrial and medical device focus**. **Deep integration with Salesforce and SAP**. |
+| **[IFS Field Service Management](https://www.ifs.com/)** 🔵 | IFS | ~$10 Billion | **$120/user/month** (Enterprise Seat Rate) | **No free trial** (Custom test environment upon enterprise inquiry) | **Enterprise FSM suite** — **End-to-end field service lifecycle** . **Scheduling, dispatch, and mobile workforce management**. **Used by large industrial and utility companies**. |
+| **[ServiceTitan](https://www.servicetitan.com/)** 🎯 | ServiceTitan | ~$8.5 Billion | **$250/user/month** (Starter tier, up to 3 techs) | **No free trial** (Interactive live demo only) | **Trade-contractor FSM** — **Flat-rate pricebooks, memberships, and call booking** . **Setup complexity requires 10–15% of license costs in dedicated staff** . **15–25% overhead drain on profitability** . |
+| **[FieldEdge](https://fieldedge.com/)** 🔵 | Xplor Technologies | ~$2.5 Billion | **$100/user/month** ($620/mo base for 10 users) | **No free trial** (1-on-1 live demo only) | **HVAC-focused FSM** — **Deep QuickBooks Desktop integration** . **Pricing is opaque with conflicting third-party estimates** . **Setup: $500–$2,000 + 5-week onboarding** . |
+| **[Housecall Pro](https://www.housecallpro.com/)** 🟠 | Housecall Pro | ~$1.4 Billion | **$79/month** (Basic plan, 1 user) | **14-day free trial** (Full feature access for 1 user, no credit card) | **Home service FSM** — **Scheduling, dispatch, and payment processing** . **45,000+ businesses** use Housecall Pro . **Guided setup for easy onboarding**. |
+| **[Jobber](https://getjobber.com/)** 🟢 | Jobber | ~$800 Million | **$39/month** (Core plan, 1 user) | **14-day free trial** (Full access, no credit card required) | **Small business FSM** — **Quoting, scheduling, invoicing, and payments** . **Designed for home service businesses (HVAC, plumbing, landscaping)** . **User-friendly mobile app for technicians**. |
+| **[Skedulo](https://www.skedulo.com/)** 🟡 | Skedulo | ~$350 Million | **$79/user/month** (Standard Scheduler) | **No free trial** (Guided sandbox demo upon request) | **Mobile workforce scheduling** — **Salesforce-native scheduling tools** . **Support included with every license** . **Additional support packages available** . |
+| **[Praxedo](https://www.praxedo.com/)** 🟣 | Praxedo | ~$150 Million | **$39/user/month** (Standard plan) | **15-day free trial** (Full web dispatcher and mobile access) | **Field service scheduling** — **Optimized route planning and mobile work orders** . **Integration with popular accounting packages** . |
+| **[Zinier](https://www.zinier.com/)** 🔴 | Zinier | ~$100 Million | **$45/user/month** (Starter tier) | **14-day free trial** (Starter AI task automation sandbox) | **AI-powered field service** — **Intelligent automation for telecom and utilities** . **Work order management and asset tracking**. |
 
 
 ---
