@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Field-Service-Optimization"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Field-Service-Optimization?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Field-Service-Optimization"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Field-Service-Optimization?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Field-Service-Optimization/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Field-Service-Optimization?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Field-Service-Optimization/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Field-Service-Optimization?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -71,7 +71,7 @@ Whether you are evaluating enterprise platforms (*Microsoft Dynamics 365 Field S
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Odoo](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   **Open-source ERP suite with native Field Service Management & Work Orders**, LGPL-3.0 licensed. **Comprehensive enterprise field operations framework** — **technician dispatching, timesheet tracking, onsite mobile signatures, customer portal, and inventory sync** . **Ideal for organizations requiring full ERP integration** . 🏢
@@ -123,7 +123,7 @@ Contributions are welcome! Follow these steps to submit new field service platfo
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
