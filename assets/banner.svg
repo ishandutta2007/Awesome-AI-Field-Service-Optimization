@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="50%" stop-color="#1E293B" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+
+    <!-- Accent Glow Gradient -->
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Subdued Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="1" stroke-opacity="0.3" />
+    </pattern>
+
+    <!-- Animated Route Line Dash -->
+    <style>
+      @keyframes dash {
+        to {
+          stroke-dashoffset: -120;
+        }
+      }
+      @keyframes pulse {
+        0%, 100% { transform: scale(1); opacity: 0.8; }
+        50% { transform: scale(1.25); opacity: 1; }
+      }
+      @keyframes floatGlow {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.6; }
+      }
+      .animated-route {
+        stroke-dasharray: 12, 8;
+        animation: dash 6s linear infinite;
+      }
+      .pulse-node {
+        transform-origin: center;
+        animation: pulse 3s ease-in-out infinite;
+      }
+      .glow-bg {
+        animation: floatGlow 5s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGrad)" rx="16" />
+  <rect width="1200" height="400" fill="url(#grid)" rx="16" />
+
+  <!-- Dynamic Glowing Route Graphic in Background (behind text) -->
+  <g class="glow-bg">
+    <circle cx="1000" cy="100" r="180" fill="#38BDF8" fill-opacity="0.08" filter="blur(40px)" />
+    <circle cx="200" cy="300" r="150" fill="#818CF8" fill-opacity="0.1" filter="blur(40px)" />
+  </g>
+
+  <!-- Background Tech/Route Nodes & Connections -->
+  <g stroke="url(#glowGrad)" stroke-width="2" fill="none" opacity="0.4">
+    <path class="animated-route" d="M 100 320 Q 300 240 500 330 T 900 280 T 1100 150" />
+    <path class="animated-route" d="M 150 80 Q 400 180 700 80 T 1050 220" stroke="#38BDF8" stroke-width="1.5" />
+  </g>
+
+  <!-- Route Nodes (Subtle Background Detail) -->
+  <g fill="#38BDF8" opacity="0.6">
+    <circle cx="500" cy="330" r="6" class="pulse-node" />
+    <circle cx="900" cy="280" r="6" class="pulse-node" />
+    <circle cx="700" cy="80" r="5" class="pulse-node" />
+  </g>
+
+  <!-- FOREGROUND TEXT CONTAINER (Guaranteed Foreground Visibility) -->
+  <g transform="translate(600, 185)" text-anchor="middle">
+    <!-- Icon / Badge Pill Above Title -->
+    <rect x="-180" y="-115" width="360" height="36" rx="18" fill="#1E293B" fill-opacity="0.9" stroke="#38BDF8" stroke-width="1.5" />
+    <text x="0" y="-92" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">
+      🔧 AI FIELD SERVICE OPTIMIZATION
+    </text>
+
+    <!-- Main Title -->
+    <text x="0" y="-20" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5">
+      Awesome AI Field Service
+    </text>
+    <text x="0" y="35" fill="url(#glowGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5">
+      Optimization Ecosystem
+    </text>
+
+    <!-- Subtitle -->
+    <text x="0" y="85" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="500" letter-spacing="0.2">
+      Intelligent Scheduling • Route Optimization • Predictive Maintenance • Open-Source FSM
+    </text>
+
+    <!-- Feature Pills -->
+    <g transform="translate(0, 125)">
+      <!-- Pill 1 -->
+      <rect x="-240" y="0" width="140" height="28" rx="14" fill="#0F172A" fill-opacity="0.8" stroke="#475569" stroke-width="1" />
+      <text x="-170" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600">⚡ AI Dispatch</text>
+
+      <!-- Pill 2 -->
+      <rect x="-80" y="0" width="160" height="28" rx="14" fill="#0F172A" fill-opacity="0.8" stroke="#475569" stroke-width="1" />
+      <text x="0" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600">🗺️ Route Solver</text>
+
+      <!-- Pill 3 -->
+      <rect x="100" y="0" width="140" height="28" rx="14" fill="#0F172A" fill-opacity="0.8" stroke="#475569" stroke-width="1" />
+      <text x="170" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600">🔓 Open-Source</text>
+    </g>
+  </g>
+</svg>
