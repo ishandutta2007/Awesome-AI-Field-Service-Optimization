@@ -66,6 +66,7 @@ Whether you are evaluating enterprise platforms (*Microsoft Dynamics 365 Field S
 | **[Skedulo](https://www.skedulo.com/)** 🟡 | Skedulo | ~$350 Million | **$79/user/month** (Standard Scheduler) | **No free trial** (Guided sandbox demo upon request) | **Mobile workforce scheduling** — **Salesforce-native scheduling tools** . **Support included with every license** . **Additional support packages available** . |
 | **[Praxedo](https://www.praxedo.com/)** 🟣 | Praxedo | ~$150 Million | **$39/user/month** (Standard plan) | **15-day free trial** (Full web dispatcher and mobile access) | **Field service scheduling** — **Optimized route planning and mobile work orders** . **Integration with popular accounting packages** . |
 | **[Zinier](https://www.zinier.com/)** 🔴 | Zinier | ~$100 Million | **$45/user/month** (Starter tier) | **14-day free trial** (Starter AI task automation sandbox) | **AI-powered field service** — **Intelligent automation for telecom and utilities** . **Work order management and asset tracking**. |
+| **[Genaya](https://genaya.com/)** 🧠 | Genaya | Early-stage, private | **$99/month** (Individual plan, 1 user) | **14-day free trial** (Card required, no free tier) | **AI operations platform for service businesses** - **Scheduling and dispatch with online booking pages**. **AI phone receptionist that answers every call and books jobs**. **Estimates, invoices, card and bank payments, iOS and Android apps**. |
 
 ---
 
